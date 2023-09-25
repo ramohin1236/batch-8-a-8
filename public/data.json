@@ -5,7 +5,7 @@
         "Title": "Delicious Burger",
         "Category": "Food",
         "Category_bg": "#0052FF",
-        "Card_bg": "#e74c3c",
+        "Card_bg": "#f8714726",
         "Text_button_bg": "#F87147",
         "Description": "Indulge in the ultimate burger experience with our mouth-watering Delicious Burger. This culinary masterpiece is a symphony of flavors, featuring a juicy, perfectly seasoned beef patty, crisp lettuce, ripe tomatoes, savory cheese, and a secret sauce that will leave your taste buds dancing with delight. Served on a soft, toasted bun, every bite is a revelation of taste and texture.",
         "Price": "8.99"
@@ -16,7 +16,7 @@
         "Title": "Pizza Supreme",
         "Category": "Food",
         "Category_bg": "#e74c3c",
-        "Card_bg": "#e74c3c",
+        "Card_bg": "#f8714726",
         "Text_button_bg": "#F87147",
         "Description": "Our Pizza Supreme is the epitome of pizza perfection. Crafted with love and piled high with a medley of premium toppings, including pepperoni, mushrooms, bell peppers, and oozing mozzarella cheese, it's a classic that never goes out of style. Each slice offers a tantalizing blend of flavors, from the savory to the cheesy, making it an ideal choice for pizza enthusiasts.",
         "Price": "10.99"
@@ -27,7 +27,7 @@
         "Title": "Vitamin Supplements",
         "Category": "Health",
         "Category_bg": "#27ae60",
-        "Card_bg": "#27ae60",
+        "Card_bg": "#0052ff26",
         "Text_button_bg": "#0052FF",
         "Description": "Elevate your health with our Vitamin Supplements, carefully formulated to provide your body with essential nutrients. Our range of supplements covers everything from immune support to skin health, ensuring that you stay in the best possible shape. Prioritize your well-being and vitality with these high-quality vitamins that support a balanced and energetic lifestyle.",
         "Price": "19.99"
@@ -38,7 +38,7 @@
         "Title": "Fitness Tracker",
         "Category": "Health",
         "Category_bg": "#27ae60",
-        "Card_bg": "#27ae60",
+        "Card_bg": "#0052ff26",
         "Text_button_bg": "#0052FF",
         "Description": "Achieve your fitness goals with our advanced Fitness Tracker. This cutting-edge device is your fitness companion, tracking your workouts, heart rate, sleep patterns, and more. Stay motivated and informed as you work towards a healthier you. Whether you're an athlete or just starting your fitness journey, this tracker is designed to help you reach new heights in your health and wellness.",
         "Price": "49.99"
@@ -49,7 +49,7 @@
         "Title": "Educational Books",
         "Category": "Education",
         "Category_bg": "#3498db",
-        "Card_bg": "#3498db",
+        "Card_bg": "#ff444a26",
         "Text_button_bg": "#FF444A",
         "Description": "Dive into the world of knowledge with our collection of Educational Books. These books cover a wide range of subjects, from science to literature, and are designed to expand your horizons and stimulate your intellect. Whether you're a student looking to excel in your studies or a lifelong learner, these books are your gateway to a world of enlightenment.",
         "Price": "29.99"
@@ -60,7 +60,7 @@
         "Title": "Online Courses",
         "Category": "Education",
         "Category_bg": "#3498db",
-        "Card_bg": "#3498db",
+        "Card_bg": "#ff444a26",
         "Text_button_bg": "#FF444A",
         "Description": ": Unlock your potential with our Interactive Online Courses. Whether you're interested in acquiring new skills, exploring a hobby, or advancing your career, our courses offer expert-led, engaging content that you can access from the comfort of your home. From programming to art, our courses cater to diverse interests, making learning a rewarding and convenient experience.",
         "Price": "79.99"
@@ -71,7 +71,7 @@
         "Title": "Men's T-Shirt",
         "Category": "Clothing",
         "Category_bg": "#9b59b6",
-        "Card_bg": "#9b59b6",
+        "Card_bg": "#79c23f26",
         "Text_button_bg": "#79C23F",
         "Description": "Elevate your style with our Men's T-Shirt. Crafted with a blend of comfort and fashion in mind, this t-shirt is the perfect addition to your wardrobe. Whether you're dressing up for a special occasion or keeping it casual, its stylish design and soft fabric ensure that you look and feel great wherever you go.",
         "Price": "24.99"
@@ -82,7 +82,7 @@
         "Title": "Women's Dress",
         "Category": "Clothing",
         "Category_bg": "#9b59b6",
-        "Card_bg": "#9b59b6",
+        "Card_bg": "#79c23f26",
         "Text_button_bg": "#79C23F",
         "Description": "Make a statement with our elegant Women's Dress. This stunning dress is designed for sophistication and grace, making it ideal for any special occasion. Its timeless silhouette and exquisite detailing ensure that you radiate confidence and beauty. Step into this dress and be ready to turn heads at your next event.",
         "Price": "49.99"
@@ -93,7 +93,7 @@
         "Title": "Sushi Platter",
         "Category": "Food",
         "Category_bg": "#e74c3c",
-        "Card_bg": "#e74c3c",
+        "Card_bg": "#f8714726",
         "Text_button_bg": "#F87147",
         "Description": "Experience the art of sushi with our delightful Sushi Platter. This carefully curated platter offers a tantalizing assortment of sushi rolls, each a masterpiece of flavor and presentation. From the freshness of sashimi to the crunch of tempura, every bite is a journey through the exquisite world of Japanese cuisine. Elevate your dining experience with this sushi extravaganza.",
         "Price": "16.99"
@@ -104,7 +104,7 @@
         "Title": "Fitness Supplements",
         "Category": "Health",
         "Category_bg": "#27ae60",
-        "Card_bg": "#27ae60",
+        "Card_bg": "#0052ff26",
         "Text_button_bg": "#0052FF",
         "Description": "Supercharge your fitness regimen with our Fitness Supplements. Designed to boost your workouts and aid in muscle recovery, these supplements are the perfect companions for those striving for peak physical performance. Whether you're a gym enthusiast or an athlete, our range of fitness supplements will help you reach your goals faster and with greater efficiency.",
         "Price": "34.99"
@@ -115,7 +115,7 @@
         "Title": "Art History Course",
         "Category": "Education",
         "Category_bg": "#3498db",
-        "Card_bg": "#3498db",
+        "Card_bg": "#ff444a26",
         "Text_button_bg": "#FF444A",
         "Description": "Embark on a captivating journey through the world of art with our Art History Course. Delve into the rich tapestry of artistic expression, from ancient civilizations to modern masterpieces. Led by expert instructors, this course provides a deep understanding of art's evolution and its profound impact on culture and society. Whether you're an aspiring artist or a curious connoisseur, this course will deepen your appreciation of art.",
         "Price": "59.99"
@@ -126,7 +126,7 @@
         "Title": "Kids' Sweater",
         "Category": "Clothing",
         "Category_bg": "#9b59b6",
-        "Card_bg": "#9b59b6",
+        "Card_bg": "#79c23f26",
         "Text_button_bg": "#79C23F",
         "Description": "Keep your little ones warm and cozy with our Kids' Sweater. Made with soft, high-quality materials, this sweater is perfect for chilly days and evenings. Its adorable design ensures that your child stays both comfortable and stylish. Whether it's a family outing or a playdate with friends, this sweater will be their go-to choice for warmth and fashion.",
         "Price": "19.99"

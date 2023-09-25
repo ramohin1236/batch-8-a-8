@@ -2,8 +2,8 @@
 
 const Banner = () => {
     return (
-        <div className="hero opacity-25 h-96 -mt-16" style={{backgroundImage: 'url(../../../Resources/background.jpg)'}}>
-  <div className="hero-overlay "></div>
+        <div className="hero opacity-80 h-96 " style={{backgroundImage: 'url(../../../Resources/background.jpg)'}}>
+  <div className="hero- "></div>
   <div className="hero-content text-center text-neutral-content">
     <div className="max-w-md">
       <h1 className="mb-5 text-2xl font-bold text-[#0B0B0B]">I Grow By Helping People In Need</h1>

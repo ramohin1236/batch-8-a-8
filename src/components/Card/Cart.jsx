@@ -3,17 +3,29 @@ import { Link } from 'react-router-dom';
 
 
 const Cart = ({data}) => {
-    const {id,Picture, Card_bg,Category,Category_bg,Title
-    }=data
+    const {id,Picture, Card_bg,Category,Title,Text_button_bg}=data
+
+ 
+
     // console.log(data)
     return (
        <Link to={`/donation/${id}`}>
-        <div className='card w-full shadow-xl' >
-  <figure><img className='w-full' src={Picture} alt="Shoes" /></figure>
+        <div
+        style={{
+            backgroundColor: Card_bg,
+            color: Text_button_bg,
+          }}
+        className='card w-full shadow-xl' >
+  <figure><img className='w-full h-56'  src={Picture} alt="Shoes" /></figure>
   <div className="card-body">
-  <button className={`btn btn-sm w-16 bg-${Category_bg}` }>{Category}</button>
+  <button
+ style={{
+    backgroundColor: Card_bg,
+    color: Text_button_bg,
+  }}
+  className='btn btn-sm w-24'>{Category}</button>
     
-    <p>If a dog chews shoes whose shoes does he choose?</p>
+    <p className='font-bold'>{Title}</p>
     <div className="card-actions justify-end">
       
     </div>
