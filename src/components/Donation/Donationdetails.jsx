@@ -33,7 +33,12 @@ const Donationdetails = () => {
                     return Swal.fire('Thankyou for your kind donation!')
                 }
                 else{
-                    Swal.fire('Please donation another category!') 
+                    Swal.fire({
+                        icon: 'error',
+                        title: 'Same Category!',
+                        text: 'Please donation another category!',
+                        footer: '<a href="">Why do I have this issue?</a>'
+                      })
                 }
             }
 

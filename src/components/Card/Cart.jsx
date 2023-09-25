@@ -9,7 +9,7 @@ const Cart = ({data}) => {
 
     // console.log(data)
     return (
-       <Link to={`/donation/${id}`}>
+       <Link to={`/donat/${id}`}>
         <div
         style={{
             backgroundColor: Card_bg,
