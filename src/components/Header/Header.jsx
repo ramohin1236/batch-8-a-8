@@ -1,10 +1,11 @@
 import { NavLink } from "react-router-dom";
 
 
+
 const Header = () => {
     return (
-        <div className="container mx-auto">
-            <div className="navbar bg-base-100">
+        <div className="">
+            <div className="navbar bg-base-100 container mx-auto">
                 <div className="flex-1">
                     <a className="btn btn-ghost normal-case text-xl">
                         <img className="w-40" src="/Resources/Logo.png" alt="" />
@@ -40,6 +41,7 @@ const Header = () => {
                     </ul>
                 </div>
             </div>
+            
         </div>
     );
 };

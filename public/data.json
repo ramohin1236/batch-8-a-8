@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "Picture": "https://i.ibb.co/6m75Jq9/Food.png",
+        "Title": "Delicious Burger",
+        "Category": "Food",
+        "Category_bg": "#0052FF",
+        "Card_bg": "#e74c3c",
+        "Text_button_bg": "#e74c3c",
+        "Description": "A mouth-watering burger with all your favorite toppings.",
+        "Price": "8.99"
+    },
+    {
+        "id": 2,
+        "Picture": "https://i.ibb.co/6m75Jq9/Food.png",
+        "Title": "Pizza Supreme",
+        "Category": "Food",
+        "Category_bg": "#e74c3c",
+        "Card_bg": "#e74c3c",
+        "Text_button_bg": "#e74c3c",
+        "Description": "A classic pizza loaded with toppings and cheese.",
+        "Price": "10.99"
+    },
+    { 
+        "id": 3,
+        "Picture": "https://i.ibb.co/wMqjSMV/Health.png",
+        "Title": "Vitamin Supplements",
+        "Category": "Health",
+        "Category_bg": "#27ae60",
+        "Card_bg": "#27ae60",
+        "Text_button_bg": "#27ae60",
+        "Description": "Stay healthy with our range of essential vitamins.",
+        "Price": "19.99"
+    },
+    {
+        "id":4,
+        "Picture": "https://i.ibb.co/wMqjSMV/Health.png",
+        "Title": "Fitness Tracker",
+        "Category": "Health",
+        "Category_bg": "#27ae60",
+        "Card_bg": "#27ae60",
+        "Text_button_bg": "#27ae60",
+        "Description": "Track your fitness progress with this advanced tracker.",
+        "Price": "49.99"
+    },
+    {
+        "id": 5,
+        "Picture": "https://i.ibb.co/jvPtk6D/Education.png",
+        "Title": "Educational Books",
+        "Category": "Education",
+        "Category_bg": "#3498db",
+        "Card_bg": "#3498db",
+        "Text_button_bg": "#3498db",
+        "Description": "Enhance your knowledge with our educational books.",
+        "Price": "29.99"
+    },
+    {
+        "id": 6,
+        "Picture": "https://i.ibb.co/jvPtk6D/Education.png",
+        "Title": "Online Courses",
+        "Category": "Education",
+        "Category_bg": "#3498db",
+        "Card_bg": "#3498db",
+        "Text_button_bg": "#3498db",
+        "Description": "Learn new skills with our interactive online courses.",
+        "Price": "79.99"
+    },
+    {
+        "id": 7,
+        "Picture": "https://i.ibb.co/6gKw3Yn/Rectangle-4287.png",
+        "Title": "Men's T-Shirt",
+        "Category": "Clothing",
+        "Category_bg": "#9b59b6",
+        "Card_bg": "#9b59b6",
+        "Text_button_bg": "#9b59b6",
+        "Description": "A stylish and comfortable t-shirt for men.",
+        "Price": "24.99"
+    },
+    {
+        "id": 8,
+        "Picture": "https://i.ibb.co/6gKw3Yn/Rectangle-4287.png",
+        "Title": "Women's Dress",
+        "Category": "Clothing",
+        "Category_bg": "#9b59b6",
+        "Card_bg": "#9b59b6",
+        "Text_button_bg": "#9b59b6",
+        "Description": "An elegant dress for women for any occasion.",
+        "Price": "49.99"
+    },
+    {
+        "id": 9,
+        "Picture": "https://i.ibb.co/6m75Jq9/Food.png",
+        "Title": "Sushi Platter",
+        "Category": "Food",
+        "Category_bg": "#e74c3c",
+        "Card_bg": "#e74c3c",
+        "Text_button_bg": "#e74c3c",
+        "Description": "A delightful sushi platter with a variety of rolls.",
+        "Price": "16.99"
+    },
+    {
+        "id": 10,
+        "Picture": "https://i.ibb.co/wMqjSMV/Health.png",
+        "Title": "Fitness Supplements",
+        "Category": "Health",
+        "Category_bg": "#27ae60",
+        "Card_bg": "#27ae60",
+        "Text_button_bg": "#27ae60",
+        "Description": "Boost your workouts with our fitness supplements.",
+        "Price": "34.99"
+    },
+    {
+        "id": 11,
+        "Picture": "https://i.ibb.co/jvPtk6D/Education.png",
+        "Title": "Art History Course",
+        "Category": "Education",
+        "Category_bg": "#3498db",
+        "Card_bg": "#3498db",
+        "Text_button_bg": "#3498db",
+        "Description": "Explore the world of art history with this course.",
+        "Price": "59.99"
+    },
+    {
+        "id": 12,
+        "Picture": "https://i.ibb.co/6gKw3Yn/Rectangle-4287.png",
+        "Title": "Kids' Sweater",
+        "Category": "Clothing",
+        "Category_bg": "#9b59b6",
+        "Card_bg": "#9b59b6",
+        "Text_button_bg": "#9b59b6",
+        "Description": "A cozy sweater for kids to keep them warm.",
+        "Price": "19.99"
+    }
+]
