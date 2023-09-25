@@ -1,4 +1,4 @@
-
+import PropTypes from 'prop-types';
 
 const DonationCart = ({money}) => {
 
@@ -41,5 +41,10 @@ href="#" className="flex flex-col items-center bg-white border border-gray-200 r
         </div>
     );
 };
+
+
+DonationCart.propTypes={
+    money: PropTypes.object
+}
 
 export default DonationCart;
