@@ -8,7 +8,7 @@ const Header = () => {
             <div className="navbar bg-base-100 container mx-auto">
                 <div className="flex-1">
                     <a className="btn btn-ghost normal-case text-xl">
-                        <img className="w-40" src="/Resources/Logo.png" alt="" />
+                        <img className="w-40" src="./Resources/Logo.png" alt="" />
                     </a>
                 </div>
                 <div className="flex-none">

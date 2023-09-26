@@ -1,8 +1,9 @@
 import PropTypes from 'prop-types';
+import { Link } from 'react-router-dom';
 
 const DonationCart = ({money}) => {
 
-    const {Picture,Title,Price,Category, Card_bg,Text_button_bg}=money;
+    const {id,Picture,Title,Price,Category, Card_bg,Text_button_bg}=money;
     console.log(money);
     return (
         <div>
@@ -27,7 +28,8 @@ href="#" className="flex flex-col items-center bg-white border border-gray-200 r
         color:Text_button_bg,
       }}
      className="font-medium">${Price}</p>
-     <button
+   <Link to={`/donat/${id}`}>
+   <button
  style={{
     
     background: Text_button_bg,
@@ -35,6 +37,7 @@ href="#" className="flex flex-col items-center bg-white border border-gray-200 r
   }}
     //  onClick={}
      className="btn mt-4">View Details</button>
+   </Link>
     </div>
 </div>
 

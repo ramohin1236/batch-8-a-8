@@ -4,11 +4,15 @@ import Cart from "./Card/Cart";
 
 
 const Home = () => {
-    const datas = useLoaderData()
+    
+   const datas = useLoaderData();
+
+   
+
     
     return (
         <div>
-            <Banner data={datas}></Banner>
+            <Banner></Banner>
 
             <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-20">
                 {
