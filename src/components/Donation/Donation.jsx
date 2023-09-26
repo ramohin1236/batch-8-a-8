@@ -38,7 +38,7 @@ const Donation = () => {
 
                <div className="text-center">
                 {
-                  donation.length >2 && <button 
+                  donation.length >0 && <button 
                   onClick={handleDeleteAll}
                   className="btn btn-secondary mt-10 ">Delete All</button>  
                 }
@@ -63,11 +63,11 @@ const Donation = () => {
                  </div>
              } 
                 </div> 
-                <div className="mt-10 text-center">
+                <div className="mt-10 text-center mb-20">
                 {
                     donation.length >2 && <button 
                     onClick={()=>setShow(!isShow)}
-                    className="btn bg-green-700  text-white">{isShow? "See More": "See Less"}</button> 
+                    className="btn bg-green-700  text-white">{isShow? "See Less": "See More "}</button> 
                 }                    
                     </div>    
         </div>

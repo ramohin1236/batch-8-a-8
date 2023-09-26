@@ -4,12 +4,14 @@ import Donation from './../Donation/Donation';
 import Statics from './../Statictis/Statics';
 import Donationdetails from './../Donation/Donationdetails';
 import Main from "../Main/Main";
+import ErrorPage from "../../Error/ErrorPage";
 
 
 const routers= createBrowserRouter([
           {
             path: '/',
             element: <Main></Main>,
+            errorElement:<ErrorPage></ErrorPage>,
             children:[
                 {
                     path: '/',
