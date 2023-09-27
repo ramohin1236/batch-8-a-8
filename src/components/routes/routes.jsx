@@ -29,7 +29,8 @@ const routers= createBrowserRouter([
                 },
                 {
                     path: '/statictis',
-                    element: <Statics></Statics>
+                    element: <Statics></Statics>,
+                    loader: ()=>fetch('/data.json')
                 },
             ]
           }
