@@ -34,7 +34,7 @@ const Donation = () => {
 
     return (
         <div>
-             <div>
+             <div className="">
 
                <div className="text-center">
                 {
@@ -47,7 +47,7 @@ const Donation = () => {
              {
                 datafound ? <p className="h-[80vh] flex justify-center items-center text-5xl font-bold">{datafound}</p>
                 :
-                 <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 mt-12 gap-5">
+                 <div className="container mx-auto grid grid-cols-1 md:grid-cols-1 lg:grid-cols-2 mt-12 gap-5">
                     {
                      isShow?  
                      donation.map(money=><DonationCart 
